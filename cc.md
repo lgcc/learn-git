@@ -1,1 +1,1 @@
-cc is here & there.
+cc is here AND there.
